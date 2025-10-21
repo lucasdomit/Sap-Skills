@@ -67,7 +67,3 @@ SAP Security | GRC Access Control | Basis Technical Consultant
 **Login as ENDUSER01**
 ![End User Login Test](screenshots/enduser-login-test.png)
 
----
-
-### 🔹 SAP GUI Overview
-![SAP GUI](screenshots/sap-gui.png)
