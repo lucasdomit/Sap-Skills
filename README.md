@@ -24,4 +24,4 @@ This repository covers:
 ## 🧑‍💻 Author
 **Lucas Domit**  
 SAP GRC | SAP Security | Technical Consultant  
-📧 lucasdomit@domain.com
+📧 lucasdomit@gmail.com
