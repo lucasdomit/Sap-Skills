@@ -34,3 +34,40 @@ SAP Security | GRC Access Control | Basis Technical Consultant
 - GRC Access Control (Risk Analysis & Remediation)
 - Security Audit Logs (SM19, SM20, SUIM)
 - Troubleshooting and Best Practices
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 SU01 – User Maintenance
+**Overview**
+![SU01 Overview](screenshots/su01-overview.png)
+
+**Create User**
+![Create User](screenshots/su01-create-user.png)
+
+**Logon Data**
+![Logon Data](screenshots/su01-logon-data.png)
+
+---
+
+### 🔹 PFCG – Role Maintenance
+**Create Role**
+![PFCG Create Role](screenshots/pfcg-create-role.png)
+
+**Authorization Maintenance**
+![PFCG Authorizations](screenshots/pfcg-authorizations.png)
+
+**Profile Generated**
+![Profile Generated](screenshots/pfcg-profile-generated.png)
+
+---
+
+### 🔹 End User Role Test
+**Login as ENDUSER01**
+![End User Login Test](screenshots/enduser-login-test.png)
+
+---
+
+### 🔹 SAP GUI Overview
+![SAP GUI](screenshots/sap-gui.png)
